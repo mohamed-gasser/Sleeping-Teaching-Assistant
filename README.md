@@ -1,5 +1,5 @@
 # Sleeping-Teaching-Assistant
-  Using JAVA threads, mutex locks, and semaphores
+  the system implemented using GUI and Using JAVA threads, mutex locks, and semaphores
 
 ### details :
 A university computer science department has a teaching assistant ( TA ) who helps undergraduate students 
